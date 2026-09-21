@@ -1,0 +1,11 @@
+{
+  "sourceClassification": "profile site",
+  "sourceUrl": "https://elite-perovskaja-ulitsa.clients.site/",
+  "supportingUrl": "https://yandex.ru/maps/org/elit/122199907963/",
+  "supportingUrlStatus": "used-for-prices-reviews-gallery-and-location",
+  "stage": 1,
+  "implementedRoutes": ["/"],
+  "deferredRoutes": ["/prices/", "/gallery/", "/reviews/"],
+  "assets": { "logo": "used", "primaryPhoto": "used", "secondaryPhotos": "used" },
+  "lastVerified": "2026-09-21"
+}
